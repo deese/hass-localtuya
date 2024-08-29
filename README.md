@@ -3,6 +3,8 @@
 
 __A Home Assistant custom Integration for local handling of Tuya-based devices.__
 
+Note: The only difference with the original project is that this has the required change to make it work with Create Windcalm devices. 
+
 ### **Usage and setup [Documentation](https://xzetsubou.github.io/hass-localtuya/)**
 
 <br>
